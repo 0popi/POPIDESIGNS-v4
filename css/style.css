@@ -229,7 +229,31 @@ a:hover {
     border: 5px white solid;
     border-radius:10%;
      position:absolute;
-    bottom: 10%;
-    left: 10%;
+    bottom: 25%;
+    left: 30%;
     -webkit-transform:translateY(-50%) translateX(-50%);
+}
+
+.pick2{
+   
+    border: 5px white solid;
+    border-radius:10%;
+     position:absolute;
+    bottom: 25%;
+    left: 70%;
+    -webkit-transform:translateY(-50%) translateX(-50%);
+}
+
+.pick3{
+   
+    border: 5px white solid;
+    border-radius:10%;
+     position:absolute;
+    bottom: -10%;
+    left: 50%;
+    -webkit-transform:translateY(-50%) translateX(-50%);
+}
+.paleta{
+    width:120px;    
+    height:30px;
 }
