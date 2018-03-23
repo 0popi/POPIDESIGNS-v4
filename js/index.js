@@ -9,8 +9,7 @@
         clearInterval(interval);
         card.style.transform = '';
         
-        // Do not flip the card if the user is trying to
-        // tap a link.
+        .
         if (event.target.nodeName === 'A') {
             return;
         }
